@@ -22,7 +22,7 @@
 <h4> 📊 Statistics </h4>
 
 <img align="left" alt="GitHub Start" height="200" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox">
-<img  alt="GitHub Start" height="200" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemosl">
+<img  alt="GitHub Start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemosl&theme=tokyonight&layout=compact&langs_count=9">
 
 
 ##
