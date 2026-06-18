@@ -6,7 +6,7 @@
 
 <h3>🎓 Information Systems Management Graduate</h3>
 <p>Interested in web development, Python, JavaScript, and automation. On this GitHub, I share projects, experiences, and my learning journey in the field of software development.</p>
-<h3>🚀 Technologies & Tools</h3>
+<h4>🚀 Technologies & Tools</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
 </p>
+
+<h4> 📊 Statistics </h4>
 
 <img align="left" alt="GitHub Start" height="200" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox">
 <img  alt="GitHub Start" height="200" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemosl">
