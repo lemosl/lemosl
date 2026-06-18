@@ -19,6 +19,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
 </p>
 
+<img align="left" alt="GitHub Start" height="200" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox">
+<img  alt="GitHub Start" height="200" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemosl">
+
+
+##
 🚀 Currently improving my skills in web development and building REST APIs with Django.
 
 📂 Here you'll find personal projects and learning exercises that showcase my growth as a software developer.
