@@ -27,9 +27,22 @@ This GitHub showcases my personal projects and continuous learning journey as a 
 
 <h3>📊 GitHub Statistics</h3>
 </br>
-<img align="left" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemosl&layout=compact&theme=tokyonight" />
-</br>
+<table>
+  <tr>
+    <td align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox"
+      />
+    </td>
+    <td align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemosl&layout=compact&theme=tokyonight"
+      />
+    </td>
+  </tr>
+</table>
 
 🚀 Currently improving my skills in React, Node.js, Express, MongoDB and building full-stack applications.
 
