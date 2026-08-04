@@ -22,7 +22,6 @@
 <h4> 📊 Statistics </h4>
 </br>
 <img align="left" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox" />
-</br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemosl&layout=compact&theme=tokyonight" />
 </br>
 
