@@ -25,7 +25,7 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemosl&layout=compact&theme=tokyonight" />
 </br>
-##
+
 🚀 Currently improving my skills in web development and building REST APIs with Django.
 
 📂 Here you'll find personal projects and learning exercises that showcase my growth as a software developer.
