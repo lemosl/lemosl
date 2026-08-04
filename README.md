@@ -24,6 +24,7 @@
 <img align="left" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemosl&layout=compact&theme=tokyonight" />
+</br>
 ##
 🚀 Currently improving my skills in web development and building REST APIs with Django.
 
