@@ -27,9 +27,9 @@ This GitHub showcases my personal projects and continuous learning journey as a 
 
 <h3>📊 GitHub Statistics</h3>
 </br>
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" border="none">
+    <td align="center">
       <img
         height="180"
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox"
