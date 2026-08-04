@@ -5,7 +5,7 @@
 **`Full Stack developer`**
 
 <h3>🎓 Information Systems Management Graduate</h3>
-<p>Interested in web development, Python, JavaScript, and automation. On this GitHub, I share projects, experiences, and my learning journey in the field of software development.</p>
+<p>Interested in web development,React, Python, JavaScript, and automation. On this GitHub, I share projects, experiences, and my learning journey in the field of software development.</p>
 <h4>🚀 Technologies & Tools</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/>
@@ -21,9 +21,14 @@
 
 <h4> 📊 Statistics </h4>
 
-<img align="left" alt="GitHub Start" height="200" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox">
-<img  alt="GitHub Start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemosl&theme=tokyonight&layout=compact&langs_count=9">
+<img
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox&rank_icon=github"
+/>
 
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemosl&layout=compact&theme=tokyonight"
+/>
 
 ##
 🚀 Currently improving my skills in web development and building REST APIs with Django.
