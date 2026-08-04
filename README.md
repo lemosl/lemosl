@@ -29,7 +29,7 @@ This GitHub showcases my personal projects and continuous learning journey as a 
 </br>
 <table>
   <tr>
-    <td align="center">
+    <td align="center" border="none">
       <img
         height="180"
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=lemosl&show_icons=true&theme=gruvbox"
